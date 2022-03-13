@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Wapp UI",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

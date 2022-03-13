@@ -1,0 +1,8 @@
+{
+  "name": "Wapp UI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ceb70da8"
+}
